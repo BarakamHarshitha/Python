@@ -1,0 +1,5 @@
+n=input()
+p=input()
+r=float(n)+float(p)
+s=float(n)-float(p)
+print(pow(r, s))
